@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tarun
-- 👀 I’m interested in problem solving using DS&A, Cloud Computing, Full Stack Development, OS and Networking.
+- 👀 I’m interested in problem solving, Cloud Computing, Full Stack Development, OS and Networking.
 - 🌱 I’m currently learning DS&A and Spring-hibernate framework.
 - 💞️ I’m looking to collaborate on Java based applications.
 - 📫 You can reach me at www.linkedin.com/in/tarun-kanade.
